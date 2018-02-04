@@ -1,0 +1,4 @@
+
+(process:1643): Indicator-Datetime-WARNING **: indicator-datetime cannot connect to EDS source: Unable to connect to 'Personal': Error calling StartServiceByName for org.gnome.evolution.dataserver.Calendar7: Timeout was reached
+
+(process:1643): Indicator-Datetime-WARNING **: indicator-datetime cannot connect to EDS source: Unable to connect to 'Personal': Error calling StartServiceByName for org.gnome.evolution.dataserver.Calendar7: Timeout was reached

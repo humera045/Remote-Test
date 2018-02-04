@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/humera/.cache/upstart/hud.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/indicator-sound.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/update-notifier-release.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/upstart-event-bridge.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/ssh-agent.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/gnome-keyring-ssh.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/unity-settings-daemon.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/gpg-agent.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/unity-panel-service.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/indicator-datetime.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/dbus.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/bamfdaemon.log" 2018-1-30-23:9:7
+"/home/humera/.cache/upstart/indicator-application.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/unity7.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/indicator-keyboard.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/window-stack-bridge.log" 2018-2-4-8:11:37
+"/home/humera/.cache/upstart/unity-panel-service-lockscreen.log" 2018-2-4-7:37:42
