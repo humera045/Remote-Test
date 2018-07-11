@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/humera/Downloads/git-2.16.1.tar.gz" added="2018-01-28T15:06:53Z" modified="2018-01-28T15:06:53Z" visited="2018-01-28T15:06:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-28T15:06:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/humera/Downloads/github-git-cheat-sheet.pdf" added="2018-01-31T07:05:13Z" modified="2018-01-31T13:31:39Z" visited="2018-01-31T07:05:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-31T13:31:39Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_humera0/github-git-cheat-sheet.pdf" added="2018-01-31T07:10:09Z" modified="2018-01-31T07:10:40Z" visited="2018-01-31T07:10:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-31T07:10:09Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-31T07:10:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/humera/Downloads/github-git-cheat-sheet(1).pdf" added="2018-01-31T07:11:13Z" modified="2018-01-31T07:11:13Z" visited="2018-01-31T07:11:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-31T07:11:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/humera/Downloads/github-git-cheat-sheet(2).pdf" added="2018-01-31T11:11:30Z" modified="2018-01-31T11:11:30Z" visited="2018-01-31T11:11:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-31T11:11:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

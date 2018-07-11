@@ -1,0 +1,12 @@
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+Failed to activate service 'org.gnome.evolution.dataserver.Calendar7': timed out
+Activating service name='com.canonical.Unity.Scope.Home'
+Successfully activated service 'com.canonical.Unity.Scope.Home'
+Activating service name='com.canonical.Unity.Scope.Applications'
+Activating service name='com.canonical.Unity.Scope.LocalFiles'
+Successfully activated service 'com.canonical.Unity.Scope.LocalFiles'
+Successfully activated service 'com.canonical.Unity.Scope.Applications'
+Activating service name='org.gnome.Terminal'
+Successfully activated service 'org.gnome.Terminal'
